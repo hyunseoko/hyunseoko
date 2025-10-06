@@ -2,8 +2,8 @@
 
 # Hi, I'm Hyunseok 👋
 
-- 🔭 **Current Role**: Backend Developer (Spring Boot)
-- 🌱 **Learning**: AWS Serverless, Kubernetes, Distributed Systems
+- 🔭 **Current Role**: Backend Developer
+- 🌱 **Learning**: AWS Server, MSA, Spring Boot
 - 💬 **Ask me about**: Java, System Architecture, DevOps, Data Modeling
 - 📍 **Base**: Seoul, KR (UTC+9)
 
