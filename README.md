@@ -1,10 +1,10 @@
 ![hyunseoko](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20hyunseoko.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
 
-# Hi, I'm Hyunseok 👋
+# Hi, there 👋
 
 - 🔭 **Current Role**: Backend Developer
-- 🌱 **Learning**: AWS Server, MSA, Spring Boot
-- 💬 **Ask me about**: Java, System Architecture, DevOps, Data Modeling
+- 🌱 **Learning**: Spring Boot, fastAPI, MSA
+- 💬 **Ask me about**: Java, Python, Data modeling
 - 📍 **Base**: Seoul, KR (UTC+9)
 
 ---
@@ -45,12 +45,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hyunseoko&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyunseoko&layout=compact&hide_border=true)
-
----
 
 ## 📫 Contact
 
