@@ -42,21 +42,6 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white)
 
----
-
-## 🧩 Featured Projects
-
-### KiTalk — Voice-enabled Kiosk
-음성 인식으로 주문을 처리하는 키오스크 웹앱  
-**Spring Boot + FastAPI + Qdrant + Redis + MySQL**, **Docker 기반 CI/CD**.  
-🔗 Repo: https://github.com/hyunseoko/kitalk
-
-### Bizondam — Review & Order Service
-기업 간 거래(B2B) 웹 서비스  
-**Spring Boot + JDBC + MSA**.  
-🔗 Repo: https://github.com/hyunseoko/bizondam
-
-> 더 많은 프로젝트는 **Pinned Repositories** 를 확인하세요.
 
 ---
 
