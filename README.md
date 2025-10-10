@@ -4,7 +4,7 @@
 
 - 🔭 **Current Role**: Backend Developer
 - 🌱 **Learning**: Spring Boot, fastAPI, MSA
-- 💬 **Ask me about**: Java, Python, Data modeling
+- 💬 **Ask me about**: Java, Python, DevOps, Data modeling
 - 📍 **Base**: Seoul, KR (UTC+9)
 
 ---
@@ -50,3 +50,4 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:kohyun2002223@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/hyun_02_s2)
+[![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)]([https://www.notion.so/](https://thirsty-newsstand-37d.notion.site/Hi-I-m-hyunseoko-283c307193038016bcabf245acefe907?source=copy_link))
